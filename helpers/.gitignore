@@ -1,0 +1,3 @@
+#Para re instalar, en consola ejecuta npm i
+#Para inicializar el repositorio ejecuta git init
+node_modules/

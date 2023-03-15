@@ -1,0 +1,16 @@
+{
+  "name": "03-bases-node",
+  "version": "0.0.1",
+  "description": "Imprime la tabla de multiplicar y un archivo txt de la misma",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base4": "node app --base=4"
+  },
+  "author": "Enrique Pazos",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.1"
+  }
+}
